@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Assignatura: Lleguatge de Marques -->
+<!-- Nom del treball: Tasca 2 -->
+<!-- Nom de l'autor: Lluis Miquel i Berkan -->
+
+<!-- He colocado de esta manera porque es más fácil de rellenar y no es necesario repetir el nombre todo el rato de está manera basta con poner el ID-->
+
+<Catalog>  
+   	<artists>  
+      	<artist id="01">Imagine Dragons</artist>
+      	<artist id="02">Daddy Yankee</artist>
+      	<artist id="03">Beret</artist>
+      	<artist id="04">Bad Gyal</artist>
+      	<artist id="05">Omar Montes</artist>
+      	<artist id="06">Avicii</artist>
+      	<artist id="07">Selena Gomez</artist>
+      	<artist id="08">Melendi</artist>
+      	<artist id="09">Pablo Alborán</artist>
+  	</artists>
+
+   	<albums>
+   		<album id="01">Origins</album>
+   		<album id="02">FIFA 15 Soundtrack</album>
+   		<album id="03">Alocao</album>
+   		<album id="04">Prisma</album>
+   		<album id="05">Lose You to Love Me</album>
+   		<album id="06">Que Tire Pa Lante</album>
+   	</albums>
+
+	<tracks>
+		<track id="01">Natural
+			<album id="01"/>
+			<artist id="01"/>
+			<genre id="01"/>
+			<composer id="01"/>
+			<composer id="02"/>
+			<composer id="03"/>
+			<composer id="04"/>
+			<composer id="05"/>
+			<composer id="06"/>
+			<composer id="07"/>
+			<seconds>189</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>6.194.440</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="02">Zero
+			<album id="01"/>
+			<artist id="01"/>
+			<genre id="01"/>
+			<genre id="05"/>
+			<composer id="03"/>
+			<composer id="04"/>
+			<composer id="05"/>
+			<composer id="06"/>
+			<composer id="08"/>
+			<seconds>210</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>7.331.840</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="03">Machine
+			<album id="01"/>
+			<artist id="01"/>
+			<genre id="03"/>
+			<genre id="04"/>
+			<composer id="03"/>
+			<composer id="04"/>
+			<composer id="05"/>
+			<composer id="06"/>
+			<composer id="09"/>
+			<seconds>181</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>6.402.374</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="04">Bad Liar
+			<album id="01"/>
+			<artist id="01"/>
+			<genre id="04"/>
+			<composer id="03"/>
+			<composer id="04"/>
+			<composer id="05"/>
+			<composer id="06"/>
+			<composer id="10"/>
+			<composer id="11"/>
+			<seconds>260</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>9.156.247</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="05">Love
+			<album id="01"/>
+			<artist id="01"/>
+			<genre id="04"/>
+			<genre id="06"/>
+			<composer id="03"/>
+			<composer id="04"/>
+			<composer id="05"/>
+			<composer id="06"/>
+			<seconds>166</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>5.421.391</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="06">Que Tire Pa Lante
+			<album id="06"/>
+			<artist id="02"/>
+			<genre id="13"/>
+			<composer id="32"/>
+			<seconds>211</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>7.478.385</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="07">Sueño
+			<album id="04"/>
+			<artist id="03"/>
+			<artist id="09"/>
+			<genre id="12"/>
+			<composer id="24"/>
+			<composer id="25"/>
+			<seconds>206</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>6.180.458</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="08">Lose You To Love Me
+			<album id="05"/>
+			<artist id="07"/>
+			<genre id="12"/>
+			<composer id="26"/>
+			<composer id="27"/>
+			<composer id="28"/>
+			<composer id="29"/>
+			<composer id="30"/>
+			<composer id="31"/>
+			<seconds>226</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>6.810.448</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="09">Desde cero
+			<album id="04"/>
+			<artist id="03"/>
+			<artist id="08"/>
+			<genre id="12"/>
+			<composer id="21"/>
+			<composer id="22"/>
+			<composer id="23"/>
+			<composer id="24"/>
+			<seconds>222</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>6.582.755</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="10">Alocao
+			<album id="03"/>
+			<artist id="04"/>
+			<artist id="05"/>
+			<genre id="12"/>
+			<composer id="17"/>
+			<composer id="18"/>
+			<composer id="19"/>
+			<seconds>213</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>7.296.539</bytes>
+			<media_type id="01"/>
+		</track>
+		<track id="11">The Nights
+			<album id="02"/>
+			<artist id="06"/>
+			<genre id="07"/>
+			<genre id="08"/>
+			<genre id="09"/>
+			<genre id="10"/>
+			<genre id="11"/>
+			<composer id="12"/>
+			<composer id="13"/>
+			<composer id="14"/>
+			<composer id="15"/>
+			<composer id="16"/>
+			<composer id="20"/>
+			<seconds>176</seconds>
+			<path>C:\Users\Dual\Desktop\Importante borjamoll\Programación\vlc proyecto\canciones</path>
+			<bytes>4.578.044</bytes>
+			<media_type id="01"/>
+		</track>
+	</tracks>
+	
+	<composers>
+		<composer id="01">Justin Drew Tranter</composer>
+		<composer id="02">Mattias Larsson</composer> 
+		<composer id="03">Dan Reynolds</composer>
+		<composer id="04">Ben McKee</composer>
+		<composer id="05">Daniel Platzman</composer> 
+		<composer id="06">Daniel Wayne Sermon</composer>
+		<composer id="07">Robin Fredriksson</composer>
+		<composer id="08">John Hill</composer>
+		<composer id="09">Alex da Kid</composer>
+		<composer id="10">Aja Volkman</composer>
+		<composer id="11">Jorgen Odegard</composer>
+		<composer id="12">John Feldman</composer>
+		<composer id="13">Jordan Suecof</composer>
+		<composer id="14">Gabriel Benjamin</composer>
+		<composer id="15">Nicholas Furlong</composer>
+		<composer id="16">Tim Bergling</composer>
+		<composer id="17">Bad Gyal</composer>
+		<composer id="18">Carlos José Montado Cruz</composer>
+		<composer id="19">Omar Ismael Montes</composer>
+		<composer id="20">Avicii</composer>
+		<composer id="21">Manuel Sánchez Rodríguez Baghuira</composer>
+		<composer id="22">Andy Clay</composer>
+		<composer id="23">Ramón Melendi Espina</composer>
+		<composer id="24">Francisco Javier Álvarez Beret</composer>
+		<composer id="25">Pablo Alborán</composer>
+		<composer id="26">Selena Gomez</composer>
+		<composer id="27">Julia Michaels</composer>
+		<composer id="28">Justin Tranter</composer>
+		<composer id="29">Robin Fredriksson</composer>
+		<composer id="30">Mattias Larsson</composer>
+		<composer id="31">Finneas O'Connell</composer>
+		<composer id="32">Daddy Yankee</composer>
+	</composers>
+
+	<media_types>
+		<media_type id="01">MP3</media_type>
+	</media_types>
+
+	<genres>
+		<genre id="01">Pop rock</genre>
+		<genre id="02">Rock electronico</genre>
+		<genre id="03">Rock alternativo</genre>
+		<genre id="04">Indie rock</genre>
+		<genre id="05">Electropop</genre>
+		<genre id="06">Música alternativa</genre>
+		<genre id="07">House</genre>
+		<genre id="08">Dance</genre>
+		<genre id="09">EDM</genre>
+		<genre id="10">Folktrónica</genre>
+		<genre id="11">Música electrónica</genre>
+		<genre id="12">Pop</genre>
+		<genre id="13">Reggaeton</genre>
+	</genres>
+</Catalog>
