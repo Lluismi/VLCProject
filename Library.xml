@@ -20,9 +20,9 @@
 		<artist id="17">DJ Frank E</artist>
 		<artist id="18">Maroon 5</artist>
 		<artist id="19">Mike Rosenberg</artist>
-		<artist id="20">LMFAO</artist>
-		<artist id="21">LMFAO</artist>
-		<artist id="22">LMFAO</artist>
+		<artist id="20">Måns Zelmerlöw</artist>
+		<artist id="21">Katy Perry</artist>
+		<artist id="22">Coldplay</artist>
 		<artist id="23">LMFAO</artist>
 		<artist id="24">LMFAO</artist>
 		<artist id="25">LMFAO</artist>
@@ -46,14 +46,39 @@
 		<album id="15">V</album>
 		<album id="16">Me 4 U</album>
 		<album id="17">All the Little Lights</album>
-		<album id="18">Alocao</album>
-		<album id="19">Alocao</album>
-		<album id="20">Alocao</album>
+		<album id="18">Perfectly Damaged</album>
+		<album id="19">One of the Boys</album>
+		<album id="20">A Head Full of Dreams</album>
+		<album id="21">Alocao</album>
+		<album id="22">Alocao</album>
+		<album id="23">Alocao</album>
+		<album id="24">Alocao</album>
+		<album id="25">Alocao</album>
+		<album id="26">Alocao</album>
+		<album id="27">Alocao</album>
+		<album id="28">Alocao</album>
+		<album id="29">Alocao</album>
+		<album id="30">Alocao</album>
+		<album id="31">Alocao</album>
+		<album id="32">Alocao</album>
+		<album id="33">Alocao</album>
+		<album id="34">Alocao</album>
+		<album id="35">Alocao</album>
+		<album id="36">Alocao</album>
+		<album id="37">Alocao</album>
+		<album id="38">Alocao</album>
+		<album id="39">Alocao</album>
+		<album id="40">Alocao</album>
+		<album id="41">Alocao</album>
+		<album id="42">Alocao</album>
+		<album id="43">Alocao</album>
+		<album id="44">Alocao</album>
+		<album id="45">Alocao</album>
    	</albums>
 
 	<tracks>
 		<track id="01">
-			<name/>Natural
+			<name>Natural</name>
 			<album id="01"/>
 			<artist id="01"/>
 			<genre id="01"/>
@@ -70,7 +95,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="02">
-			<name/>Zero
+			<name>Zero</name>
 			<album id="01"/>
 			<artist id="01"/>
 			<genre id="01"/>
@@ -86,7 +111,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="03">
-			<name/>Machine
+			<name>Machine</name>
 			<album id="01"/>
 			<artist id="01"/>
 			<genre id="03"/>
@@ -102,7 +127,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="04">
-			<name/>Bad Liar
+			<name>Bad Liar</name>
 			<album id="01"/>
 			<artist id="01"/>
 			<genre id="04"/>
@@ -118,7 +143,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="05">
-			<name/>Love
+			<name>Love</name>
 			<album id="01"/>
 			<artist id="01"/>
 			<genre id="04"/>
@@ -133,7 +158,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="06">
-			<name/>Que Tire Pa Lante
+			<name>Que Tire Pa Lante</name>
 			<album id="06"/>
 			<artist id="02"/>
 			<genre id="13"/>
@@ -144,7 +169,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="07">
-			<name/>Sueño
+			<name>Sueño</name>
 			<album id="04"/>
 			<artist id="03"/>
 			<artist id="09"/>
@@ -157,7 +182,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="08">
-			<name/>Lose You To Love Me
+			<name>Lose You To Love Me</name>
 			<album id="05"/>
 			<artist id="07"/>
 			<genre id="12"/>
@@ -173,7 +198,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="09">
-			<name/>Desde cero
+			<name>Desde cero</name>
 			<album id="04"/>
 			<artist id="03"/>
 			<artist id="08"/>
@@ -188,7 +213,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="10">
-			<name/>Alocao
+			<name>Alocao</name>
 			<album id="03"/>
 			<artist id="04"/>
 			<artist id="05"/>
@@ -202,7 +227,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="11">
-			<name/>The Nights
+			<name>The Nights</name>
 			<album id="02"/>
 			<artist id="06"/>
 			<genre id="07"/>
@@ -221,7 +246,7 @@
 			<bytes>4.578.044</bytes>
 			<media_type id="01"/>
 		<track id="12">
-			<name/>Besos
+			<name>Besos</name>
 			<album id="07"/>
 			<artist id="10"/>
 			<genre id="01"/>
@@ -237,7 +262,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="13">
-			<name/>lazysong
+			<name>lazysong</name>
 			<album id="08"/>
 			<artist id="11"/>
 			<genre id="13"/>
@@ -251,7 +276,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="14">
-			<name/>soldaditomarinero
+			<name>soldaditomarinero</name>
 			<album id="09"/>
 			<artist id="12"/>
 			<genre id="14"/>
@@ -263,7 +288,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="15">
-			<name/>sorryforpartyrocking
+			<name>sorryforpartyrocking</name>
 			<album id="10"/>
 			<artist id="13"/>
 			<genre id="16"/>
@@ -278,7 +303,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="16">
-			<name/>sirenas
+			<name>sirenas</name>
 			<album id="11"/>
 			<artist id="14"/>
 			<genre id="12"/>
@@ -289,7 +314,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="17">
-			<name/>tocadoyhundido
+			<name>tocadoyhundido</name>
 			<album id="12"/>
 			<artist id="08"/>
 			<genre id="01"/>
@@ -302,7 +327,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="18">
-			<name/>jardinconenanitos
+			<name>jardinconenanitos</name>
 			<album id="13"/>
 			<artist id="08"/>
 			<genre id="01"/>
@@ -329,7 +354,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="20">
-			<name/>seeyouagain
+			<name>seeyouagain</name>
 			<album id="15"/>
 			<artist id="15"/>
 			<artist id="16"/>
@@ -345,7 +370,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="21">
-			<name/>LetHerGo
+			<name>LetHerGo</name>
 			<album id="17"/>
 			<artist id="19"/>
 			<genre id="24"/>
@@ -359,7 +384,7 @@
 			<media_type id="01"/>
 		</track>
 		<track id="22">
-			<name/>Sugar
+			<name>Sugar</name>
 			<album id="15"/>
 			<artist id="18"/>
 			<genre id="12"/>
@@ -378,45 +403,48 @@
 			<media_type id="01"/>
 		</track>
 		<track id="23">
-			<name/>Heroes
-			<album id="08"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="46"/>
-			<seconds>190</seconds>
+			<name>Heroes</name>
+			<album id="18"/>
+			<artist id="20"/>
+			<genre id="12"/>
+			<composer id="65"/>
+			<composer id="66"/>
+			<composer id="67"/>
+			<seconds>191</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.084.900</bytes>
+			<bytes>7.635.885</bytes>
 			<media_type id="01"/>
 		</track>
 		<track id="24">
-			<name/>HotNCold
-			<album id="08"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="46"/>
-			<seconds>190</seconds>
+			<name>HotNCold</name>
+			<album id="19"/>
+			<artist id="21"/>
+			<genre id="01"/>
+			<genre id="05"/>
+			<genre id="30"/>
+			<genre id="31"/>
+			<composer id="68"/>
+			<composer id="69"/>
+			<composer id="70"/>
+			<seconds>220</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.084.900</bytes>
+			<bytes>11.348.205</bytes>
 			<media_type id="01"/>
 		</track>
 		<track id="25">
 			<name/>AdventureOfLifetime
-			<album id="08"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="46"/>
+			<album id="20"/>
+			<artist id="22"/>
+			<genre id="27"/>
+			<genre id="28"/>
+			<genre id="30"/>
+			<composer id="71"/>
+			<composer id="72"/>
+			<composer id="73"/>
+			<composer id="74"/>
 			<seconds>190</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.084.900</bytes>
+			<bytes>12.625.005</bytes>
 			<media_type id="01"/>
 		</track>
 	</tracks>
@@ -486,16 +514,42 @@
 		<composer id="62">Lukasz Gottwald</composer>
 		<composer id="63">Mike Rosenberg</composer>
 		<composer id="64">Chris Vallejo</composer>
-		<composer id="65"></composer>
-		<composer id="66"></composer>
-		<composer id="67"></composer>
-		<composer id="68"></composer>
-		<composer id="69"></composer>
-		<composer id="70"></composer>
-		<composer id="71"></composer>
-		<composer id="72"></composer>
-		<composer id="73"></composer>
-		<composer id="74"></composer>
+		<composer id="65">Anton Malmberg Hård af Segerstad</composer>
+		<composer id="66">Joy Deb</composer>
+		<composer id="67">Linnea Deb</composer>
+		<composer id="68">Katy Perry</composer>
+		<composer id="69">Dr. Luke</composer>
+		<composer id="70">Max Martin</composer>
+		<composer id="71">Chris Martin</composer>
+		<composer id="72">Will Champion</composer>
+		<composer id="73">Jonny Buckland</composer>
+		<composer id="74">Guy Berryman</composer>
+		<composer id="75"></composer>
+		<composer id="76"></composer>
+		<composer id="77"></composer>
+		<composer id="78"></composer>
+		<composer id="79"></composer>
+		<composer id="80"></composer>
+		<composer id="81"></composer>
+		<composer id="82"></composer>
+		<composer id="83"></composer>
+		<composer id="84"></composer>
+		<composer id="85"></composer>
+		<composer id="86"></composer>
+		<composer id="87"></composer>
+		<composer id="88"></composer>
+		<composer id="89"></composer>
+		<composer id="90"></composer>
+		<composer id="91"></composer>
+		<composer id="92"></composer>
+		<composer id="93"></composer>
+		<composer id="94"></composer>
+		<composer id="95"></composer>
+		<composer id="96"></composer>
+		<composer id="97"></composer>
+		<composer id="98"></composer>
+		<composer id="99"></composer>
+		<composer id="100"></composer>
 	</composers>
 
 	<media_types>
@@ -532,8 +586,16 @@
 		<genre id="27">Disco</genre>
 		<genre id="28">funk</genre>
 		<genre id="29">soul</genre>
-		<genre id="30"></genre>
-		<genre id="31"></genre>
+		<genre id="30">Dance pop</genre>
+		<genre id="31">synthpop</genre>
 		<genre id="32"></genre>
+		<genre id="33"></genre>
+		<genre id="34"></genre>
+		<genre id="35"></genre>
+		<genre id="36"></genre>
+		<genre id="37"></genre>
+		<genre id="38"></genre>
+		<genre id="39"></genre>
+		<genre id="40"></genre>
 	</genres>
 </Catalog>
