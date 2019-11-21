@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="UTF-8"?>
 <Catalog>  
    	<artists>  
       	<artist id="01">Imagine Dragons</artist>
@@ -76,380 +74,183 @@
 		<album id="44">Alocao</album>
 		<album id="45">Alocao</album>
    	</albums>
-
-	<tracks>
-		<track id="01">
+	<canciones>
+		<track>
+			<id>01</id>
 			<name>Natural</name>
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="01"/>
-			<composer id="01"/>
-			<composer id="02"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="07"/>
 			<seconds>189</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.194.440</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="02">
+		<track>
+			<id>02</id>
 			<name>Zero</name>
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="01"/>
-			<genre id="05"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="08"/>
 			<seconds>210</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.331.840</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="03">
+		<track>
+			<id>03</id>
 			<name>Machine</name>
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="03"/>
-			<genre id="04"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="09"/>
 			<seconds>181</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.402.374</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="04">
+		<track>
+			<id>04</id>
 			<name>Bad Liar</name>
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="04"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="10"/>
-			<composer id="11"/>
 			<seconds>260</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>9.156.247</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="05">
+		<track>
+			<id>05</id>
 			<name>Love</name>
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="04"/>
-			<genre id="06"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
 			<seconds>166</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>5.421.391</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="06">
+		<track>
+			<id>06</id>
 			<name>Que Tire Pa Lante</name>
-			<album id="06"/>
-			<artist id="02"/>
-			<genre id="13"/>
-			<composer id="32"/>
 			<seconds>211</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.478.385</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="07">
+		<track>
+			<id>07</id>
 			<name>Sueño</name>
-			<album id="04"/>
-			<artist id="03"/>
-			<artist id="09"/>
-			<genre id="12"/>
-			<composer id="24"/>
-			<composer id="25"/>
 			<seconds>206</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.180.458</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="08">
+		<track>
+			<id>08</id>
 			<name>Lose You To Love Me</name>
-			<album id="05"/>
-			<artist id="07"/>
-			<genre id="12"/>
-			<composer id="26"/>
-			<composer id="27"/>
-			<composer id="28"/>
-			<composer id="29"/>
-			<composer id="30"/>
-			<composer id="31"/>
 			<seconds>226</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.810.448</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="09">
+		<track>
+			<id>09</id>
 			<name>Desde cero</name>
-			<album id="04"/>
-			<artist id="03"/>
-			<artist id="08"/>
-			<genre id="12"/>
-			<composer id="21"/>
-			<composer id="22"/>
-			<composer id="23"/>
-			<composer id="24"/>
 			<seconds>222</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.582.755</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="10">
+		<track>
+			<id>10</id>
 			<name>Alocao</name>
-			<album id="03"/>
-			<artist id="04"/>
-			<artist id="05"/>
-			<genre id="12"/>
-			<composer id="17"/>
-			<composer id="18"/>
-			<composer id="19"/>
 			<seconds>213</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.296.539</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="11">
+		<track>
+			<id>11</id>
 			<name>The Nights</name>
-			<album id="02"/>
-			<artist id="06"/>
-			<genre id="07"/>
-			<genre id="08"/>
-			<genre id="09"/>
-			<genre id="10"/>
-			<genre id="11"/>
-			<composer id="12"/>
-			<composer id="13"/>
-			<composer id="14"/>
-			<composer id="15"/>
-			<composer id="16"/>
-			<composer id="20"/>
 			<seconds>176</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>4.578.044</bytes>
-			<media_type id="01"/>
-		<track id="12">
+		</track>
+		<track>
+			<id>12</id>
 			<name>Besos</name>
-			<album id="07"/>
-			<artist id="10"/>
-			<genre id="01"/>
-			<genre id="12"/>
-			<composer id="33"/>
-			<composer id="34"/>
-			<composer id="35"/>
-			<composer id="36"/>
-			<composer id="37"/>
 			<seconds>146</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>4.541.377</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="13">
+		<track>
+			<id>13</id>
 			<name>lazysong</name>
-			<album id="08"/>
-			<artist id="11"/>
-			<genre id="13"/>
-			<composer id="38"/>
-			<composer id="39"/>
-			<composer id="40"/>
-			<composer id="41"/>
 			<seconds>195</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.325.964</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="14">
+		<track>
+			<id>14</id>
 			<name>soldaditomarinero</name>
-			<album id="09"/>
-			<artist id="12"/>
-			<genre id="14"/>
-			<genre id="15"/>
-			<composer id="42"/>
 			<seconds>239</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.829.490</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="15">
+		<track>
+			<id>15</id>
 			<name>sorryforpartyrocking</name>
-			<album id="10"/>
-			<artist id="13"/>
-			<genre id="16"/>
-			<genre id="17"/>
-			<genre id="18"/>
-			<composer id="43"/>
-			<composer id="44"/>
-			<composer id="45"/>
 			<seconds>203</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>13.276.548</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="16">
+		<track>
+			<id>16</id>
 			<name>sirenas</name>
-			<album id="11"/>
-			<artist id="14"/>
-			<genre id="12"/>
-			<composer id="46"/>
 			<seconds>195</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>5.703.43</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="17">
+		<track>
+			<id>17</id>
 			<name>tocadoyhundido</name>
-			<album id="12"/>
-			<artist id="08"/>
-			<genre id="01"/>
-			<composer id="47"/>
-			<composer id="48"/>
-			<composer id="49"/>
 			<seconds>211</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>8.821.427</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="18">
+		<track>
+			<id>18</id>
 			<name>jardinconenanitos</name>
-			<album id="13"/>
-			<artist id="08"/>
-			<genre id="01"/>
-			<composer id="47"/>
 			<seconds>239</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>8.620.287</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="19">
+		<track>
+			<id>19</id>
 			<name/>cheerleader
-			<album id="16"/>
-			<artist id="11"/>
-			<genre id="19"/>
-			<genre id="20"/>
-			<genre id="21"/>
-			<composer id="50"/>
-			<composer id="51"/>
-			<composer id="52"/>
-			<composer id="53"/>
 			<seconds>181</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.428.652</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="20">
+		<track>
+			<id>20</id>
 			<name>seeyouagain</name>
-			<album id="15"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="54"/>
-			<composer id="55"/>
-			<composer id="56"/>
 			<seconds>190</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.084.900</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="21">
+		<track>
+			<id>21</id>
 			<name>LetHerGo</name>
-			<album id="17"/>
-			<artist id="19"/>
-			<genre id="24"/>
-			<genre id="25"/>
-			<genre id="26"/>
-			<composer id="63"/>
-			<composer id="64"/>
 			<seconds>253</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>10.168.365</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="22">
+		<track>
+			<id>22</id>
 			<name>Sugar</name>
-			<album id="15"/>
-			<artist id="18"/>
-			<genre id="12"/>
-			<genre id="27"/>
-			<genre id="28"/>
-			<genre id="29"/>
-			<composer id="57"/>
-			<composer id="58"/>
-			<composer id="59"/>
-			<composer id="60"/>
-			<composer id="61"/>
-			<composer id="62"/>
 			<seconds>236</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>12.055.725</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="23">
+		<track>
+			<id>23</id>
 			<name>Heroes</name>
-			<album id="18"/>
-			<artist id="20"/>
-			<genre id="12"/>
-			<composer id="65"/>
-			<composer id="66"/>
-			<composer id="67"/>
 			<seconds>191</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.635.885</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="24">
-			<name>HotNCold</name>
-			<album id="19"/>
-			<artist id="21"/>
-			<genre id="01"/>
-			<genre id="05"/>
-			<genre id="30"/>
-			<genre id="31"/>
-			<composer id="68"/>
-			<composer id="69"/>
-			<composer id="70"/>
+		<track>
+			<id>24</id>
+			<name>HotNCold</name
 			<seconds>220</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>11.348.205</bytes>
-			<media_type id="01"/>
 		</track>
-		<track id="25">
-			<name/>AdventureOfLifetime
-			<album id="20"/>
-			<artist id="22"/>
-			<genre id="27"/>
-			<genre id="28"/>
-			<genre id="30"/>
-			<composer id="71"/>
-			<composer id="72"/>
-			<composer id="73"/>
-			<composer id="74"/>
+		<track>
+			<id>25</id>
+			<name>AdventureOfLifetime</name>
 			<seconds>190</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>12.625.005</bytes>
-			<media_type id="01"/>
 		</track>
-	</tracks>
-	
+	</canciones>
 	<composers>
 		<composer id="01">Justin Drew Tranter</composer>
 		<composer id="02">Mattias Larsson</composer> 
@@ -553,9 +354,9 @@
 		<composer id="100"></composer>
 	</composers>
 
-	<media_types>
-		<media_type id="01">MP3</media_type>
-	</media_types>
+	<types>
+		<type id="01">MP3</type>
+	</types>
 
 	<genres>
 		<genre id="01">Pop rock</genre>
@@ -584,560 +385,10 @@
 		<genre id="24">Folk rock</genre>
 		<genre id="25">indie pop</genre>
 		<genre id="26">acústica</genre>
-		<genre id="27">Disco</genre>
+		<genre id="27">disco</genre>
 		<genre id="28">funk</genre>
 		<genre id="29">soul</genre>
-		<genre id="30">Dance pop</genre>
+		<genre id="30">dance pop</genre>
 		<genre id="31">synthpop</genre>
-		<genre id="32"></genre>
-		<genre id="33"></genre>
-		<genre id="34"></genre>
-		<genre id="35"></genre>
-		<genre id="36"></genre>
-		<genre id="37"></genre>
-		<genre id="38"></genre>
-		<genre id="39"></genre>
-		<genre id="40"></genre>
 	</genres>
 </Catalog>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<Catalog>  
-   	<artists>  
-      	<artist id="01">Imagine Dragons</artist>
-      	<artist id="02">Daddy Yankee</artist>
-      	<artist id="03">Beret</artist>
-      	<artist id="04">Bad Gyal</artist>
-      	<artist id="05">Omar Montes</artist>
-      	<artist id="06">Avicii</artist>
-      	<artist id="07">Selena Gomez</artist>
-      	<artist id="08">Melendi</artist>
-      	<artist id="09">Pablo Alborán</artist>
-		<artist id="10">El Canto del Loco</artist>
-		<artist id="11">Bruno Mars</artist>
-		<artist id="12">Fito y los Fitipaldis</artist>
-		<artist id="13">LMFAO</artist>
-		<artist id="14">Taburete</artist>
-		<artist id="15">Wiz Khalifa</artist>
-		<artist id="16">Charlie Puth</artist>
-		<artist id="17">DJ Frank E</artist>
-		<artist id="18">Maroon 5</artist>
-		<artist id="19">Mike Rosenberg</artist>
-		<artist id="20">LMFAO</artist>
-		<artist id="21">LMFAO</artist>
-		<artist id="22">LMFAO</artist>
-		<artist id="23">LMFAO</artist>
-		<artist id="24">LMFAO</artist>
-		<artist id="25">LMFAO</artist>
-  	</artists>
-
-   	<albums>
-   		<album id="01">Origins</album>
-   		<album id="02">FIFA 15 Soundtrack</album>
-   		<album id="03">Alocao</album>
-   		<album id="04">Prisma</album>
-   		<album id="05">Lose You to Love Me</album>
-   		<album id="06">Que Tire Pa Lante</album>
-		<album id="07">Zapatillas</album>
-		<album id="08">Doo-Wops and Hooligans</album>
-		<album id="09">Lo más lejos a tu lado</album>
-		<album id="10">Sorry for Party Rocking</album>
-		<album id="11">Sirenas</album>
-		<album id="12">Un alumno más</album>
-		<album id="13">Lágrimas desordenadas</album>
-		<album id="14">Furious 7 Soundtrack</album>
-		<album id="15">V</album>
-		<album id="16">Me 4 U</album>
-		<album id="17">All the Little Lights</album>
-		<album id="18">Alocao</album>
-		<album id="19">Alocao</album>
-		<album id="20">Alocao</album>
-   	</albums>
-
-	<tracks>
-		<track id="01">
-			<name/>Natural
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="01"/>
-			<composer id="01"/>
-			<composer id="02"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="07"/>
-			<seconds>189</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>6.194.440</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="02">
-			<name/>Zero
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="01"/>
-			<genre id="05"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="08"/>
-			<seconds>210</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.331.840</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="03">
-			<name/>Machine
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="03"/>
-			<genre id="04"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="09"/>
-			<seconds>181</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>6.402.374</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="04">
-			<name/>Bad Liar
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="04"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<composer id="10"/>
-			<composer id="11"/>
-			<seconds>260</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>9.156.247</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="05">
-			<name/>Love
-			<album id="01"/>
-			<artist id="01"/>
-			<genre id="04"/>
-			<genre id="06"/>
-			<composer id="03"/>
-			<composer id="04"/>
-			<composer id="05"/>
-			<composer id="06"/>
-			<seconds>166</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>5.421.391</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="06">
-			<name/>Que Tire Pa Lante
-			<album id="06"/>
-			<artist id="02"/>
-			<genre id="13"/>
-			<composer id="32"/>
-			<seconds>211</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.478.385</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="07">
-			<name/>Sueño
-			<album id="04"/>
-			<artist id="03"/>
-			<artist id="09"/>
-			<genre id="12"/>
-			<composer id="24"/>
-			<composer id="25"/>
-			<seconds>206</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>6.180.458</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="08">
-			<name/>Lose You To Love Me
-			<album id="05"/>
-			<artist id="07"/>
-			<genre id="12"/>
-			<composer id="26"/>
-			<composer id="27"/>
-			<composer id="28"/>
-			<composer id="29"/>
-			<composer id="30"/>
-			<composer id="31"/>
-			<seconds>226</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>6.810.448</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="09">
-			<name/>Desde cero
-			<album id="04"/>
-			<artist id="03"/>
-			<artist id="08"/>
-			<genre id="12"/>
-			<composer id="21"/>
-			<composer id="22"/>
-			<composer id="23"/>
-			<composer id="24"/>
-			<seconds>222</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>6.582.755</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="10">
-			<name/>Alocao
-			<album id="03"/>
-			<artist id="04"/>
-			<artist id="05"/>
-			<genre id="12"/>
-			<composer id="17"/>
-			<composer id="18"/>
-			<composer id="19"/>
-			<seconds>213</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.296.539</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="11">
-			<name/>The Nights
-			<album id="02"/>
-			<artist id="06"/>
-			<genre id="07"/>
-			<genre id="08"/>
-			<genre id="09"/>
-			<genre id="10"/>
-			<genre id="11"/>
-			<composer id="12"/>
-			<composer id="13"/>
-			<composer id="14"/>
-			<composer id="15"/>
-			<composer id="16"/>
-			<composer id="20"/>
-			<seconds>176</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>4.578.044</bytes>
-			<media_type id="01"/>
-		<track id="12">
-			<name/>Besos
-			<album id="07"/>
-			<artist id="10"/>
-			<genre id="01"/>
-			<genre id="12"/>
-			<composer id="33"/>
-			<composer id="34"/>
-			<composer id="35"/>
-			<composer id="36"/>
-			<composer id="37"/>
-			<seconds>146</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>4.541.377</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="13">
-			<name/>lazysong
-			<album id="08"/>
-			<artist id="11"/>
-			<genre id="13"/>
-			<composer id="38"/>
-			<composer id="39"/>
-			<composer id="40"/>
-			<composer id="41"/>
-			<seconds>195</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>6.325.964</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="14">
-			<name/>soldaditomarinero
-			<album id="09"/>
-			<artist id="12"/>
-			<genre id="14"/>
-			<genre id="15"/>
-			<composer id="42"/>
-			<seconds>239</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.829.490</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="15">
-			<name/>sorryforpartyrocking
-			<album id="10"/>
-			<artist id="13"/>
-			<genre id="16"/>
-			<genre id="17"/>
-			<genre id="18"/>
-			<composer id="43"/>
-			<composer id="44"/>
-			<composer id="45"/>
-			<seconds>203</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>13.276.548</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="16">
-			<name/>sirenas
-			<album id="11"/>
-			<artist id="14"/>
-			<genre id="12"/>
-			<composer id="46"/>
-			<seconds>195</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>5.703.43</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="17">
-			<name/>tocadoyhundido
-			<album id="12"/>
-			<artist id="08"/>
-			<genre id="01"/>
-			<composer id="47"/>
-			<composer id="48"/>
-			<composer id="49"/>
-			<seconds>211</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>8.821.427</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="18">
-			<name/>jardinconenanitos
-			<album id="13"/>
-			<artist id="08"/>
-			<genre id="01"/>
-			<composer id="47"/>
-			<seconds>239</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>8.620.287</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="19">
-			<name/>cheerleader
-			<album id="16"/>
-			<artist id="11"/>
-			<genre id="19"/>
-			<genre id="20"/>
-			<genre id="21"/>
-			<composer id="50"/>
-			<composer id="51"/>
-			<composer id="52"/>
-			<composer id="53"/>
-			<seconds>181</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>6.428.652</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="20">
-			<name/>seeyouagain
-			<album id="15"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="54"/>
-			<composer id="55"/>
-			<composer id="56"/>
-			<seconds>190</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.084.900</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="21">
-			<name/>LetHerGo
-			<album id="17"/>
-			<artist id="19"/>
-			<genre id="24"/>
-			<genre id="25"/>
-			<genre id="26"/>
-			<composer id="63"/>
-			<composer id="64"/>
-			<seconds>253</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>10.168.365</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="22">
-			<name/>Sugar
-			<album id="15"/>
-			<artist id="18"/>
-			<genre id="12"/>
-			<genre id="27"/>
-			<genre id="28"/>
-			<genre id="29"/>
-			<composer id="57"/>
-			<composer id="58"/>
-			<composer id="59"/>
-			<composer id="60"/>
-			<composer id="61"/>
-			<composer id="62"/>
-			<seconds>236</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>12.055.725</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="23">
-			<name/>Heroes
-			<album id="08"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="46"/>
-			<seconds>190</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.084.900</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="24">
-			<name/>HotNCold
-			<album id="08"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="46"/>
-			<seconds>190</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.084.900</bytes>
-			<media_type id="01"/>
-		</track>
-		<track id="25">
-			<name/>AdventureOfLifetime
-			<album id="08"/>
-			<artist id="15"/>
-			<artist id="16"/>
-			<artist id="17"/>
-			<genre id="22"/>
-			<genre id="23"/>
-			<composer id="46"/>
-			<seconds>190</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
-			<bytes>7.084.900</bytes>
-			<media_type id="01"/>
-		</track>
-	</tracks>
-	
-	<composers>
-		<composer id="01">Justin Drew Tranter</composer>
-		<composer id="02">Mattias Larsson</composer> 
-		<composer id="03">Dan Reynolds</composer>
-		<composer id="04">Ben McKee</composer>
-		<composer id="05">Daniel Platzman</composer> 
-		<composer id="06">Daniel Wayne Sermon</composer>
-		<composer id="07">Robin Fredriksson</composer>
-		<composer id="08">John Hill</composer>
-		<composer id="09">Alex da Kid</composer>
-		<composer id="10">Aja Volkman</composer>
-		<composer id="11">Jorgen Odegard</composer>
-		<composer id="12">John Feldman</composer>
-		<composer id="13">Jordan Suecof</composer>
-		<composer id="14">Gabriel Benjamin</composer>
-		<composer id="15">Nicholas Furlong</composer>
-		<composer id="16">Tim Bergling</composer>
-		<composer id="17">Bad Gyal</composer>
-		<composer id="18">Carlos José Montado Cruz</composer>
-		<composer id="19">Omar Ismael Montes</composer>
-		<composer id="20">Avicii</composer>
-		<composer id="21">Manuel Sánchez Rodríguez Baghuira</composer>
-		<composer id="22">Andy Clay</composer>
-		<composer id="23">Ramón Melendi Espina</composer>
-		<composer id="24">Francisco Javier Álvarez Beret</composer>
-		<composer id="25">Pablo Alborán</composer>
-		<composer id="26">Selena Gomez</composer>
-		<composer id="27">Julia Michaels</composer>
-		<composer id="28">Justin Tranter</composer>
-		<composer id="29">Robin Fredriksson</composer>
-		<composer id="30">Mattias Larsson</composer>
-		<composer id="31">Finneas O'Connell</composer>
-		<composer id="32">Daddy Yankee</composer>
-		<composer id="33">Dani Martín</composer>
-		<composer id="34">David Otero</composer>
-		<composer id="35">Chema Ruiz</composer>
-		<composer id="36">Ivan Ganchegui</composer>
-		<composer id="37">Jandro Velázquez</composer>
-		<composer id="38">Peter Hernandez</composer>
-		<composer id="39">Philip Lawrence</composer>
-		<composer id="40">Ari Levine</composer>
-		<composer id="41">K'naan</composer>
-		<composer id="42">Adolfo Cabrales</composer>
-		<composer id="43">Stefan Kendal Gordy</composer>
-		<composer id="44">Skyler Husten Gordy</composer>
-		<composer id="45">Erin Beck</composer>
-		<composer id="46">Guillermo Bárcenas</composer>
-		<composer id="47">José de Castro</composer>
-		<composer id="48">Julio Reyes</composer>
-		<composer id="49">Carlito Records</composer>
-		<composer id="50">Omar Samuel Pasley</composer>
-		<composer id="51">Mark Bradford</composer>
-		<composer id="52">Ryan Dillon</composer>
-		<composer id="53">Clifton Dillon</composer>
-		<composer id="54">Wiz Khalifa</composer>
-		<composer id="55">Charlie Puth</composer>
-		<composer id="56">DJ Frank E</composer>
-		<composer id="57">Adam Levine</composer>
-		<composer id="58">Joshua Coleman</composer>
-		<composer id="59">Jacob Kasher Hindlin</composer>
-		<composer id="60">Henry Walter</composer>
-		<composer id="61">Mike Posner</composer>
-		<composer id="62">Lukasz Gottwald</composer>
-		<composer id="63">Mike Rosenberg</composer>
-		<composer id="64">Chris Vallejo</composer>
-		<composer id="65"></composer>
-		<composer id="66"></composer>
-		<composer id="67"></composer>
-		<composer id="68"></composer>
-		<composer id="69"></composer>
-		<composer id="70"></composer>
-		<composer id="71"></composer>
-		<composer id="72"></composer>
-		<composer id="73"></composer>
-		<composer id="74"></composer>
-	</composers>
-
-	<media_types>
-		<media_type id="01">MP3</media_type>
-	</media_types>
-
-	<genres>
-		<genre id="01">Pop rock</genre>
-		<genre id="02">Rock electronico</genre>
-		<genre id="03">Rock alternativo</genre>
-		<genre id="04">Indie rock</genre>
-		<genre id="05">Electropop</genre>
-		<genre id="06">Música alternativa</genre>
-		<genre id="07">House</genre>
-		<genre id="08">Dance</genre>
-		<genre id="09">EDM</genre>
-		<genre id="10">Folktrónica</genre>
-		<genre id="11">Música electrónica</genre>
-		<genre id="12">Pop</genre>
-		<genre id="13">Reggaeton</genre>
-		<genre id="14">Rock and roll</genre>
-		<genre id="15">Rock</genre>
-		<genre id="16">Electro house</genre>
-		<genre id="17">hip house</genre>
-		<genre id="18">acid house</genre>
-		<genre id="19">Reggae fusion</genre>
-		<genre id="20">deep house</genre>
-		<genre id="21">jazz</genre>
-		<genre id="22">Hip-Hop</genre>
-		<genre id="23">Pop Rap</genre>
-		<genre id="24">Folk rock</genre>
-		<genre id="25">indie pop</genre>
-		<genre id="26">acústica</genre>
-		<genre id="27">Disco</genre>
-		<genre id="28">funk</genre>
-		<genre id="29">soul</genre>
-		<genre id="30"></genre>
-		<genre id="31"></genre>
-		<genre id="32"></genre>
-	</genres>
-</Catalog>
->>>>>>> d19a6bc8a4a0dac20792bb3894c85068cdec3137
