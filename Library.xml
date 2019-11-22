@@ -75,176 +75,152 @@
 		<album id="45">Alocao</album>
    	</albums>
 	<canciones>
-		<track>
-			<id>01</id>
+		<track id="01">
 			<name>Natural</name>
 			<seconds>189</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.194.440</bytes>
 		</track>
-		<track>
-			<id>02</id>
+		<track id="02">
 			<name>Zero</name>
 			<seconds>210</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.331.840</bytes>
 		</track>
-		<track>
-			<id>03</id>
+		<track id="03">
 			<name>Machine</name>
 			<seconds>181</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.402.374</bytes>
 		</track>
-		<track>
+		<track id="04">
 			<id>04</id>
 			<name>Bad Liar</name>
 			<seconds>260</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>9.156.247</bytes>
 		</track>
-		<track>
-			<id>05</id>
+		<track id="05">
 			<name>Love</name>
 			<seconds>166</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>5.421.391</bytes>
 		</track>
-		<track>
-			<id>06</id>
+		<track id="06">
 			<name>Que Tire Pa Lante</name>
 			<seconds>211</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.478.385</bytes>
 		</track>
-		<track>
-			<id>07</id>
+		<track id="07">
 			<name>Sueño</name>
 			<seconds>206</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.180.458</bytes>
 		</track>
-		<track>
-			<id>08</id>
+		<track id="08">
 			<name>Lose You To Love Me</name>
 			<seconds>226</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.810.448</bytes>
 		</track>
-		<track>
-			<id>09</id>
+		<track id="09">
 			<name>Desde cero</name>
 			<seconds>222</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.582.755</bytes>
 		</track>
-		<track>
-			<id>10</id>
+		<track id="10">
 			<name>Alocao</name>
 			<seconds>213</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.296.539</bytes>
 		</track>
-		<track>
-			<id>11</id>
+		<track id="11">
 			<name>The Nights</name>
 			<seconds>176</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>4.578.044</bytes>
 		</track>
-		<track>
-			<id>12</id>
+		<track id="12">
 			<name>Besos</name>
 			<seconds>146</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>4.541.377</bytes>
 		</track>
-		<track>
-			<id>13</id>
+		<track id="13">
 			<name>lazysong</name>
 			<seconds>195</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.325.964</bytes>
 		</track>
-		<track>
-			<id>14</id>
+		<track id="14">
 			<name>soldaditomarinero</name>
 			<seconds>239</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.829.490</bytes>
 		</track>
-		<track>
-			<id>15</id>
+		<track id="15">
 			<name>sorryforpartyrocking</name>
 			<seconds>203</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>13.276.548</bytes>
 		</track>
-		<track>
-			<id>16</id>
+		<track id="16">
 			<name>sirenas</name>
 			<seconds>195</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>5.703.43</bytes>
 		</track>
-		<track>
-			<id>17</id>
+		<track id="17">
 			<name>tocadoyhundido</name>
 			<seconds>211</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>8.821.427</bytes>
 		</track>
-		<track>
-			<id>18</id>
+		<track id="18">
 			<name>jardinconenanitos</name>
 			<seconds>239</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>8.620.287</bytes>
 		</track>
-		<track>
-			<id>19</id>
+		<track id="19">
 			<name/>cheerleader
 			<seconds>181</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>6.428.652</bytes>
 		</track>
-		<track>
-			<id>20</id>
+		<track id="20">
 			<name>seeyouagain</name>
 			<seconds>190</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.084.900</bytes>
 		</track>
-		<track>
-			<id>21</id>
+		<track id="21">
 			<name>LetHerGo</name>
 			<seconds>253</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>10.168.365</bytes>
 		</track>
-		<track>
-			<id>22</id>
+		<track id="22">
 			<name>Sugar</name>
 			<seconds>236</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>12.055.725</bytes>
 		</track>
-		<track>
-			<id>23</id>
+		<track id="23">
 			<name>Heroes</name>
 			<seconds>191</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>7.635.885</bytes>
 		</track>
-		<track>
-			<id>24</id>
-			<name>HotNCold</name
+		<track id="24">
+			<name>HotNCold</name>
 			<seconds>220</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>11.348.205</bytes>
 		</track>
-		<track>
-			<id>25</id>
+		<track id="25">
 			<name>AdventureOfLifetime</name>
 			<seconds>190</seconds>
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
