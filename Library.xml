@@ -1,379 +1,355 @@
 <Catalog>  
-   	<artists>  
-      	<artist id="01">Imagine Dragons</artist>
-      	<artist id="02">Daddy Yankee</artist>
-      	<artist id="03">Beret</artist>
-      	<artist id="04">Bad Gyal</artist>
-      	<artist id="05">Omar Montes</artist>
-      	<artist id="06">Avicii</artist>
-      	<artist id="07">Selena Gomez</artist>
-      	<artist id="08">Melendi</artist>
-      	<artist id="09">Pablo Alborán</artist>
-		<artist id="10">El Canto del Loco</artist>
-		<artist id="11">Bruno Mars</artist>
-		<artist id="12">Fito y los Fitipaldis</artist>
-		<artist id="13">LMFAO</artist>
-		<artist id="14">Taburete</artist>
-		<artist id="15">Wiz Khalifa</artist>
-		<artist id="16">Charlie Puth</artist>
-		<artist id="17">DJ Frank E</artist>
-		<artist id="18">Maroon 5</artist>
-		<artist id="19">Mike Rosenberg</artist>
-		<artist id="20">Måns Zelmerlöw</artist>
-		<artist id="21">Katy Perry</artist>
-		<artist id="22">Coldplay</artist>
-		<artist id="23">ZOO</artist>
-		<artist id="24">Lildami</artist>
-		<artist id="25">Oques grasses</artist>
-		<artist id="26">BEJO</artist>
-		<artist id="27">AYAX Y PROK</artist>
-		<artist id="28">KAZE</artist>
-		<artist id="29">LOCOPLAYA</artist>
-		<artist id="30">SFDK</artist>
-		<artist id="31">Eminem</artist>
-  	</artists>
-
-   	<albums>
-   		<album id="01">Origins</album>
-   		<album id="02">FIFA 15 Soundtrack</album>
-   		<album id="03">Alocao</album>
-   		<album id="04">Prisma</album>
-   		<album id="05">Lose You to Love Me</album>
-   		<album id="06">Que Tire Pa Lante</album>
-		<album id="07">Zapatillas</album>
-		<album id="08">Doo-Wops and Hooligans</album>
-		<album id="09">Lo más lejos a tu lado</album>
-		<album id="10">Sorry for Party Rocking</album>
-		<album id="11">Sirenas</album>
-		<album id="12">Un alumno más</album>
-		<album id="13">Lágrimas desordenadas</album>
-		<album id="14">Furious 7 Soundtrack</album>
-		<album id="15">V</album>
-		<album id="16">Me 4 U</album>
-		<album id="17">All the Little Lights</album>
-		<album id="18">Perfectly Damaged</album>
-		<album id="19">One of the Boys</album>
-		<album id="20">A Head Full of Dreams</album>
-		<album id="21">FundaMental</album>
-		<album id="22">Reproches</album>
-		<album id="23">De Graná a Maracay</album>
-		<album id="24">Hipi Hapa Vacilanduki</album>
-		<album id="25">Corazón tripartito</album>
-		<album id="26">Metamorfosis</album>
-		<album id="27">Cálmate</album>
-		<album id="28">Modo Turbio</album>
-		<album id="29">Qué dice la juventud?</album>
-		<album id="30">Fresas con nata</album>
-		<album id="31">Redención</album>
-		<album id="32">Fans del sol</album>
-		<album id="33">Without me</album>
-   	</albums>
-	<canciones>
-		<track id="01">
+   	<canciones>
+		<track>
+			<id>01</id>
 			<name>Natural</name>
 			<seconds>189</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.194.440</bytes>
 		</track>
-		<track id="02">
+		<track>
+			<id>02</id>
 			<name>Zero</name>
 			<seconds>210</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.331.840</bytes>
 		</track>
-		<track id="03">
+		<track>
+			<id>03</id>
 			<name>Machine</name>
 			<seconds>181</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.402.374</bytes>
 		</track>
-		<track id="04">
+		<track>
 			<id>04</id>
 			<name>Bad Liar</name>
 			<seconds>260</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>9.156.247</bytes>
 		</track>
-		<track id="05">
+		<track>
+			<id>05</id>
 			<name>Love</name>
 			<seconds>166</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.421.391</bytes>
 		</track>
-		<track id="06">
+		<track>
+			<id>06</id>
 			<name>Que Tire Pa Lante</name>
 			<seconds>211</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.478.385</bytes>
 		</track>
-		<track id="07">
+		<track>
+			<id>07</id>
 			<name>Sueño</name>
 			<seconds>206</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.180.458</bytes>
 		</track>
-		<track id="08">
+		<track>
+			<id>08</id>
 			<name>Lose You To Love Me</name>
 			<seconds>226</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.810.448</bytes>
 		</track>
-		<track id="09">
+		<track>
+			<id>09</id>
 			<name>Desde cero</name>
 			<seconds>222</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.582.755</bytes>
 		</track>
-		<track id="10">
+		<track>
+			<id>10</id>
 			<name>Alocao</name>
 			<seconds>213</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.296.539</bytes>
 		</track>
-		<track id="11">
+		<track>
+			<id>11</id>
 			<name>The Nights</name>
 			<seconds>176</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>4.578.044</bytes>
 		</track>
-		<track id="12">
+		<track>
+			<id>12</id>
 			<name>Besos</name>
 			<seconds>146</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>4.541.377</bytes>
 		</track>
-		<track id="13">
+		<track>
+			<id>13</id>
 			<name>lazysong</name>
 			<seconds>195</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.325.964</bytes>
 		</track>
-		<track id="14">
+		<track>
+			<id>14</id>
 			<name>soldaditomarinero</name>
 			<seconds>239</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.829.490</bytes>
 		</track>
-		<track id="15">
+		<track>
+			<id>15</id>
 			<name>sorryforpartyrocking</name>
 			<seconds>203</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>13.276.548</bytes>
 		</track>
-		<track id="16">
+		<track>
+			<id>16</id>
 			<name>sirenas</name>
 			<seconds>195</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.703.43</bytes>
 		</track>
-		<track id="17">
+		<track>
+			<id>17</id>
 			<name>tocadoyhundido</name>
 			<seconds>211</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>8.821.427</bytes>
 		</track>
-		<track id="18">
+		<track>
+			<id>18</id>
 			<name>jardinconenanitos</name>
 			<seconds>239</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>8.620.287</bytes>
 		</track>
-		<track id="19">
-			<name/>cheerleader
+		<track>
+			<id>19</id>
+			<name>cheerleader</name>
 			<seconds>181</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.428.652</bytes>
 		</track>
-		<track id="20">
+		<track>
+			<id>20</id>
 			<name>seeyouagain</name>
 			<seconds>190</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.084.900</bytes>
 		</track>
-		<track id="21">
+		<track>
+			<id>21</id>
 			<name>LetHerGo</name>
 			<seconds>253</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>10.168.365</bytes>
 		</track>
-		<track id="22">
+		<track>
+			<id>22</id>
 			<name>Sugar</name>
 			<seconds>236</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>12.055.725</bytes>
 		</track>
-		<track id="23">
+		<track>
+			<id>23</id>
 			<name>Heroes</name>
 			<seconds>191</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.635.885</bytes>
 		</track>
-		<track id="24">
+		<track>
+			<id>24</id>
 			<name>HotNCold</name>
 			<seconds>220</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>11.348.205</bytes>
 		</track>
-		<track id="25">
+		<track>
+			<id>25</id>
 			<name>AdventureOfLifetime</name>
 			<seconds>190</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>12.625.005</bytes>
 		</track>
-		<track id="26">
-			<name>Entre tenerme y entretenerte</name>
+		<track>
+			<id>26</id>
+			<name>Entretenerme y entretenerte</name>
 			<seconds>47</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>1.129.087</bytes>
 		</track>
-		<track id="27">
+		<track>
+			<id>27</id>
 			<name>Reproches</name>
 			<seconds>273</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.567.320</bytes>
 		</track>
-		<track id="28">
+		<track>
+			<id>28</id>
 			<name>DE GRANÁ A MARACAY</name>
 			<seconds>70</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>1.697.839</bytes>
 		</track>
-		<track id="29">
+		<track>
+			<id>29</id>
 			<name>Amigos desconocidos</name>
 			<seconds>176</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>4.230.719</bytes>
 		</track>
-		<track id="30">
+		<track>
+			<id>30</id>
 			<name>Corazón tripartito</name>
 			<seconds>215</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.169.874</bytes>
 		</track>
-		<track id="31">
+		<track>
+			<id>31</id>
 			<name>El puto amo de casa</name>
 			<seconds>205</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>4.933.518</bytes>
 		</track>
-		<track id="32">
+		<track>
+			<id>32</id>
 			<name>Mango</name>
 			<seconds>90</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>2.647.699</bytes>
 		</track>
-		<track id="33">
+		<track>
+			<id>33</id>
 			<name>Mucho</name>
 			<seconds>193</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>3.200.032</bytes>
 		</track>
-		<track id="34">
+		<track>
+			<id>34</id>
 			<name>Metamorfosis</name>
 			<seconds>95</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>2.291.235</bytes>
 		</track>
-		<track id="35">
+		<track>
+			<id>35</id>
 			<name>Poco</name>
 			<seconds>122</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>2.931.075 </bytes>
 		</track>
-		<track id="36">
+		<track>
+			<id>36</id>
 			<name>Cálmate</name>
 			<seconds>241</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.796.813</bytes>
 		</track>
-		<track id="37">
+		<track>
+			<id>37</id>
 			<name>Modo turbio</name>
 			<seconds>246</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.920.946</bytes>
 		</track>
-		<track id="38">
+		<track>
+			<id>38</id>
 			<name>Qué dice la juventud</name>
 			<seconds>229</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.501.524</bytes>
 		</track>
-		<track id="39">
+		<track>
+			<id>39</id>
 			<name>Fresas con nata</name>
 			<seconds>213</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.122.226</bytes>
 		</track>
-		<track id="40">
+		<track>
+			<id>40</id>
 			<name>Agua pasá</name>
 			<seconds>179</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>4.298.429</bytes>
 		</track>
-		<track id="41">
+		<track>
+			<id>41</id>
 			<name>Lucifer</name>
 			<seconds>222</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.330.997</bytes>
 		</track>
-		<track id="42">
+		<track>
+			<id>42</id>
 			<name>Bancals</name>
 			<seconds>173</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>5.877.614</bytes>
 		</track>
-		<track id="43">
+		<track>
+			<id>43</id>
 			<name>Canço de l'aire</name>
 			<seconds>200</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.975.534</bytes>
 		</track>
-		<track id="44">
+		<track>
+			<id>44</id>
 			<name>In the night</name>
 			<seconds>210</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.078.097</bytes>
 		</track>
-		<track id="45">
+		<track>
+			<id>45</id>
 			<name>Inevitable</name>
 			<seconds>190</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>6.335.728</bytes>
 		</track>
-		<track id="46">
+		<track>
+			<id>46</id>
 			<name>Més likes</name>
 			<seconds>255</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>8.927.401</bytes>
 		</track>
-		<track id="47">
+		<track>
+			<id>47</id>
 			<name>Serem ocells</name>
 			<seconds>237</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>8.284.208</bytes>
 		</track>
-		<track id="48">
+		<track>
+			<id>48</id>
 			<name>Sta guay</name>
 			<seconds>228</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.821.049</bytes>
 		</track>
-		<track id="49">
-			<name>Torno a ser jo</name>
+		<track>
+			<id>49</id>
+			<name>Torno a SSserjo</name>
 			<seconds>237</seconds>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>7.802.285</bytes>
 		</track>
-		<track id="50">
-			<name>Without me </name>
-			<seconds>291</second>
-			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+		<track>
+			<id>50</id>
+			<name>Without me</name>
+			<seconds>291</seconds>
+			<path>C:\Users\Dual\Desktop\proyecto\canciones</path>
 			<bytes>8.015.454</bytes>
 		</track>
-		
-		
-		
-		
 	</canciones>
 	<composers>
 		<composer id="01">Justin Drew Tranter</composer>
@@ -500,4 +476,73 @@
 		<genre id="31">synthpop</genre>
 		<genre id="32">Rap</genre>
 	</genres>
+	<artists>  
+      	<artist id="01">Imagine Dragons</artist>
+      	<artist id="02">Daddy Yankee</artist>
+      	<artist id="03">Beret</artist>
+      	<artist id="04">Bad Gyal</artist>
+      	<artist id="05">Omar Montes</artist>
+      	<artist id="06">Avicii</artist>
+      	<artist id="07">Selena Gomez</artist>
+      	<artist id="08">Melendi</artist>
+      	<artist id="09">Pablo Alborán</artist>
+		<artist id="10">El Canto del Loco</artist>
+		<artist id="11">Bruno Mars</artist>
+		<artist id="12">Fito y los Fitipaldis</artist>
+		<artist id="13">LMFAO</artist>
+		<artist id="14">Taburete</artist>
+		<artist id="15">Wiz Khalifa</artist>
+		<artist id="16">Charlie Puth</artist>
+		<artist id="17">DJ Frank E</artist>
+		<artist id="18">Maroon 5</artist>
+		<artist id="19">Mike Rosenberg</artist>
+		<artist id="20">Måns Zelmerlöw</artist>
+		<artist id="21">Katy Perry</artist>
+		<artist id="22">Coldplay</artist>
+		<artist id="23">ZOO</artist>
+		<artist id="24">Lildami</artist>
+		<artist id="25">Oques grasses</artist>
+		<artist id="26">BEJO</artist>
+		<artist id="27">AYAX Y PROK</artist>
+		<artist id="28">KAZE</artist>
+		<artist id="29">LOCOPLAYA</artist>
+		<artist id="30">SFDK</artist>
+		<artist id="31">Eminem</artist>
+  	</artists>
+
+   	<albums>
+   		<album id="01">Origins</album>
+   		<album id="02">FIFA 15 Soundtrack</album>
+   		<album id="03">Alocao</album>
+   		<album id="04">Prisma</album>
+   		<album id="05">Lose You to Love Me</album>
+   		<album id="06">Que Tire Pa Lante</album>
+		<album id="07">Zapatillas</album>
+		<album id="08">Doo-Wops and Hooligans</album>
+		<album id="09">Lo más lejos a tu lado</album>
+		<album id="10">Sorry for Party Rocking</album>
+		<album id="11">Sirenas</album>
+		<album id="12">Un alumno más</album>
+		<album id="13">Lágrimas desordenadas</album>
+		<album id="14">Furious 7 Soundtrack</album>
+		<album id="15">V</album>
+		<album id="16">Me 4 U</album>
+		<album id="17">All the Little Lights</album>
+		<album id="18">Perfectly Damaged</album>
+		<album id="19">One of the Boys</album>
+		<album id="20">A Head Full of Dreams</album>
+		<album id="21">FundaMental</album>
+		<album id="22">Reproches</album>
+		<album id="23">De Graná a Maracay</album>
+		<album id="24">Hipi Hapa Vacilanduki</album>
+		<album id="25">Corazón tripartito</album>
+		<album id="26">Metamorfosis</album>
+		<album id="27">Cálmate</album>
+		<album id="28">Modo Turbio</album>
+		<album id="29">Qué dice la juventud?</album>
+		<album id="30">Fresas con nata</album>
+		<album id="31">Redención</album>
+		<album id="32">Fans del sol</album>
+		<album id="33">Without me</album>
+   	</albums>
 </Catalog>
