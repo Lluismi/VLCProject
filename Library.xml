@@ -22,9 +22,15 @@
 		<artist id="20">Måns Zelmerlöw</artist>
 		<artist id="21">Katy Perry</artist>
 		<artist id="22">Coldplay</artist>
-		<artist id="23">LMFAO</artist>
-		<artist id="24">LMFAO</artist>
-		<artist id="25">LMFAO</artist>
+		<artist id="23">ZOO</artist>
+		<artist id="24">Lildami</artist>
+		<artist id="25">Oques grasses</artist>
+		<artist id="26">BEJO</artist>
+		<artist id="27">AYAX Y PROK</artist>
+		<artist id="28">KAZE</artist>
+		<artist id="29">LOCOPLAYA</artist>
+		<artist id="30">SFDK</artist>
+		<artist id="31">Eminem</artist>
   	</artists>
 
    	<albums>
@@ -48,31 +54,19 @@
 		<album id="18">Perfectly Damaged</album>
 		<album id="19">One of the Boys</album>
 		<album id="20">A Head Full of Dreams</album>
-		<album id="21">Alocao</album>
-		<album id="22">Alocao</album>
-		<album id="23">Alocao</album>
-		<album id="24">Alocao</album>
-		<album id="25">Alocao</album>
-		<album id="26">Alocao</album>
-		<album id="27">Alocao</album>
-		<album id="28">Alocao</album>
-		<album id="29">Alocao</album>
-		<album id="30">Alocao</album>
-		<album id="31">Alocao</album>
-		<album id="32">Alocao</album>
-		<album id="33">Alocao</album>
-		<album id="34">Alocao</album>
-		<album id="35">Alocao</album>
-		<album id="36">Alocao</album>
-		<album id="37">Alocao</album>
-		<album id="38">Alocao</album>
-		<album id="39">Alocao</album>
-		<album id="40">Alocao</album>
-		<album id="41">Alocao</album>
-		<album id="42">Alocao</album>
-		<album id="43">Alocao</album>
-		<album id="44">Alocao</album>
-		<album id="45">Alocao</album>
+		<album id="21">FundaMental</album>
+		<album id="22">Reproches</album>
+		<album id="23">De Graná a Maracay</album>
+		<album id="24">Hipi Hapa Vacilanduki</album>
+		<album id="25">Corazón tripartito</album>
+		<album id="26">Metamorfosis</album>
+		<album id="27">Cálmate</album>
+		<album id="28">Modo Turbio</album>
+		<album id="29">Qué dice la juventud?</album>
+		<album id="30">Fresas con nata</album>
+		<album id="31">Redención</album>
+		<album id="32">Fans del sol</album>
+		<album id="33">Without me</album>
    	</albums>
 	<canciones>
 		<track id="01">
@@ -226,6 +220,160 @@
 			<path>E:\borjamoll\Programación\proyecto\canciones</path>
 			<bytes>12.625.005</bytes>
 		</track>
+		<track id="26">
+			<name>Entre tenerme y entretenerte</name>
+			<seconds>47</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>1.129.087</bytes>
+		</track>
+		<track id="27">
+			<name>Reproches</name>
+			<seconds>273</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>6.567.320</bytes>
+		</track>
+		<track id="28">
+			<name>DE GRANÁ A MARACAY</name>
+			<seconds>70</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>1.697.839</bytes>
+		</track>
+		<track id="29">
+			<name>Amigos desconocidos</name>
+			<seconds>176</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>4.230.719</bytes>
+		</track>
+		<track id="30">
+			<name>Corazón tripartito</name>
+			<seconds>215</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>5.169.874</bytes>
+		</track>
+		<track id="31">
+			<name>El puto amo de casa</name>
+			<seconds>205</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>4.933.518</bytes>
+		</track>
+		<track id="32">
+			<name>Mango</name>
+			<seconds>90</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>2.647.699</bytes>
+		</track>
+		<track id="33">
+			<name>Mucho</name>
+			<seconds>193</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>3.200.032</bytes>
+		</track>
+		<track id="34">
+			<name>Metamorfosis</name>
+			<seconds>95</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>2.291.235</bytes>
+		</track>
+		<track id="35">
+			<name>Poco</name>
+			<seconds>122</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>2.931.075 </bytes>
+		</track>
+		<track id="36">
+			<name>Cálmate</name>
+			<seconds>241</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>5.796.813</bytes>
+		</track>
+		<track id="37">
+			<name>Modo turbio</name>
+			<seconds>246</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>5.920.946</bytes>
+		</track>
+		<track id="38">
+			<name>Qué dice la juventud</name>
+			<seconds>229</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>5.501.524</bytes>
+		</track>
+		<track id="39">
+			<name>Fresas con nata</name>
+			<seconds>213</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>5.122.226</bytes>
+		</track>
+		<track id="40">
+			<name>Agua pasá</name>
+			<seconds>179</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>4.298.429</bytes>
+		</track>
+		<track id="41">
+			<name>Lucifer</name>
+			<seconds>222</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>5.330.997</bytes>
+		</track>
+		<track id="42">
+			<name>Bancals</name>
+			<seconds>173</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>5.877.614</bytes>
+		</track>
+		<track id="43">
+			<name>Canço de l'aire</name>
+			<seconds>200</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>6.975.534</bytes>
+		</track>
+		<track id="44">
+			<name>In the night</name>
+			<seconds>210</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>7.078.097</bytes>
+		</track>
+		<track id="45">
+			<name>Inevitable</name>
+			<seconds>190</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>6.335.728</bytes>
+		</track>
+		<track id="46">
+			<name>Més likes</name>
+			<seconds>255</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>8.927.401</bytes>
+		</track>
+		<track id="47">
+			<name>Serem ocells</name>
+			<seconds>237</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>8.284.208</bytes>
+		</track>
+		<track id="48">
+			<name>Sta guay</name>
+			<seconds>228</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>7.821.049</bytes>
+		</track>
+		<track id="49">
+			<name>Torno a ser jo</name>
+			<seconds>237</seconds>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>7.802.285</bytes>
+		</track>
+		<track id="50">
+			<name>Without me </name>
+			<seconds>291</second>
+			<path>E:\borjamoll\Programación\proyecto\canciones</path>
+			<bytes>8.015.454</bytes>
+		</track>
+		
+		
+		
+		
 	</canciones>
 	<composers>
 		<composer id="01">Justin Drew Tranter</composer>
@@ -302,32 +450,16 @@
 		<composer id="72">Will Champion</composer>
 		<composer id="73">Jonny Buckland</composer>
 		<composer id="74">Guy Berryman</composer>
-		<composer id="75"></composer>
-		<composer id="76"></composer>
-		<composer id="77"></composer>
-		<composer id="78"></composer>
-		<composer id="79"></composer>
-		<composer id="80"></composer>
-		<composer id="81"></composer>
-		<composer id="82"></composer>
-		<composer id="83"></composer>
-		<composer id="84"></composer>
-		<composer id="85"></composer>
-		<composer id="86"></composer>
-		<composer id="87"></composer>
-		<composer id="88"></composer>
-		<composer id="89"></composer>
-		<composer id="90"></composer>
-		<composer id="91"></composer>
-		<composer id="92"></composer>
-		<composer id="93"></composer>
-		<composer id="94"></composer>
-		<composer id="95"></composer>
-		<composer id="96"></composer>
-		<composer id="97"></composer>
-		<composer id="98"></composer>
-		<composer id="99"></composer>
-		<composer id="100"></composer>
+		<composer id="75">BEJO</composer>
+		<composer id="76">Ayax</composer>
+		<composer id="77">Prok</composer>
+		<composer id="78">SFDK</composer>
+		<composer id="79">LOCOPLAYA</composer>
+		<composer id="80">Oques grasses</composer>
+		<composer id="81">KAZE</composer>
+		<composer id="82">Eminem</composer>
+		<composer id="83">ZOO</composer>
+		<composer id="84">lildami</composer>
 	</composers>
 
 	<types>
@@ -366,5 +498,6 @@
 		<genre id="29">soul</genre>
 		<genre id="30">dance pop</genre>
 		<genre id="31">synthpop</genre>
+		<genre id="32">Rap</genre>
 	</genres>
 </Catalog>
