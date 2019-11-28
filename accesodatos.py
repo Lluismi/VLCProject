@@ -5,15 +5,18 @@ def listaidcanciones():
         tree = ET.parse('Library.xml')
         root = tree.getroot()
         idsong = []
-        for child in root.iter('id'):
-                idsong.append(child.text)
+        for track in root.find('cancions'):
+                for id in track.findall('id'):
+                        idsong.append(id.text)
         return idsong
+print(listaidcanciones()) 
 
 def pathcanciones():
         tree = ET.parse('Library.xml')
         root = tree.getroot()
         pathsong = []
-        for child in root.iter('path'):
-                pathsong.append(child.text) 
+        for track in root.find('cancions'):
+                for path in track.findall('path'):
+                        pathsong.append(path.text)
         return pathsong
 print(pathcanciones())
