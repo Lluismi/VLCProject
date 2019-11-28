@@ -9,7 +9,6 @@ def listaidcanciones():
                 for id in track.findall('id'):
                         idsong.append(id.text)
         return idsong
-print(listaidcanciones()) 
 
 def pathcanciones():
         tree = ET.parse('Library.xml')
@@ -19,4 +18,7 @@ def pathcanciones():
                 for path in track.findall('path'):
                         pathsong.append(path.text)
         return pathsong
-print(pathcanciones())
+
+rutacancionesid = {}
+
+rutacancionesid = dict(zip(listaidcanciones(), pathcanciones()))
