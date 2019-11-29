@@ -1,9 +1,8 @@
 import random
 from accesodatos import listaidcanciones
-from accesodatos import rutacancionesid
 
 
-def listaleatoria():
+def listaleatoria(listaidcanciones):
     listaid = listaidcanciones()
     songaleatorio = []
     for _ in range(len(listaid)):
@@ -11,11 +10,10 @@ def listaleatoria():
         songaleatorio.append(numero)
         listaid.remove(numero)
     return songaleatorio
+print(listaleatoria(listaidcanciones))
+if __name__ == '__main__':
+    
+    assert (listaleatoria(len))==(listaidcanciones(len))
+    assert listaleatoria([1, 5, ,5 ,5]) == [1 , 5]
+        
 
-
-def randomskere():
-    listapathid = listaleatoria()
-    path = []
-    for id in listapathid:
-        path.append(rutacancionesid[id])
-    return path
