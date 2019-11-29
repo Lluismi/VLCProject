@@ -1,14 +1,14 @@
 import os
 import subprocess
 from subprocess import Popen
-from logica import randomskere
+from logica import randompath
 
 
-def listapath():
-    path = randomskere()
+def main():
+    path = randompath()
     rutavlc = " ".join(path)
     vlc = "C:/Program Files/VideoLAN/VLC/vlc.exe"
     subprocess.Popen([vlc, [rutavlc]])
 
-
-listapath()
+if __name__ == "__main__":
+    main()

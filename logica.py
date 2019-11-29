@@ -13,7 +13,7 @@ def listaleatoria():
     return songaleatorio
 
 
-def randomskere():
+def randompath():
     listapathid = listaleatoria()
     path = []
     for id in listapathid:
