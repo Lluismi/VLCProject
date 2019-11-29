@@ -6,8 +6,6 @@ from logica import listaleatoria
 from sistemas import main
 
 
-
-
 if __name__ == "__main__":
     listaidcanciones()
     pathcanciones()
