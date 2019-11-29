@@ -5,12 +5,12 @@ from accesodatos import rutacancionesid
 
 def listaleatoria():
     listaid = listaidcanciones()
-    songaleatorio = []
+    idaleatorio = []
     for _ in range(len(listaid)):
         numero = random.choice(listaid)
-        songaleatorio.append(numero)
+        idaleatorio.append(numero)
         listaid.remove(numero)
-    return songaleatorio
+    return idaleatorio
 
 
 def randompath():

@@ -1,14 +1,16 @@
-import os
-import subprocess
-from subprocess import Popen
+import xml.etree.ElementTree as ET
+from accesodatos import listaidcanciones
+from accesodatos import pathcanciones
 from logica import randompath
+from logica import listaleatoria
+from sistemas import main
 
 
-def main():
-    path = randompath()
-    rutavlc = " ".join(path)
-    vlc = "C:/Program Files/VideoLAN/VLC/vlc.exe"
-    subprocess.Popen([vlc, [rutavlc]])
+
 
 if __name__ == "__main__":
+    listaidcanciones()
+    pathcanciones()
+    listaleatoria()
+    randompath()
     main()
