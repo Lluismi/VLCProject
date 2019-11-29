@@ -11,7 +11,4 @@ def test_norepeat():
         if listanorepeat.count(id) > 1:
             assert False
     assert True
-
-def test_asignaciónvalor():
-    assert isinstance(randompath()[0], str)
     
