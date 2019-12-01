@@ -12,5 +12,3 @@ if __name__ == "__main__":
     listaleatoria()
     randompath()
     main()
-
-    
