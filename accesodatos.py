@@ -5,7 +5,8 @@ def listaidcanciones():
     try:
         tree = ET.parse('Library.xml')
     except ET.ParseError:
-        print("No ha encontrado el xml")
+        print("No se ha encontrado el xml")
+        exit()
     root = tree.getroot()
     idsong = []
     for track in root.find('cancions'):
@@ -18,7 +19,7 @@ def pathcanciones():
     try:
         tree = ET.parse('Library.xml')
     except ET.ParseError:
-        print("No ha encontrado el xml")
+        print("No se ha encontrado el xml")
     root = tree.getroot()
     pathsong = []
     for track in root.find('cancions'):

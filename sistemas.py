@@ -5,10 +5,11 @@ from logica import randompath
 
 def main():
     try:
-        "C:/Program Files/VideoLAN/VLC/vlc.exe"
+        vlc = "C:/Program Files/VideoLAN/VLC/vlc.exe"
     except FileNotFoundError:
         print("No se ha encontrado el vlc.exe en la ruta indicada")
-    vlc = "C:/Program Files/VideoLAN/VLC/vlc.exe"
+        exit()
     path = randompath()
     rutapath = " ".join(path)
     subprocess.Popen([vlc, [rutapath]])
+    
